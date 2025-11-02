@@ -90,4 +90,4 @@ During interaction, the pacing engine adjusts explanation length, while ToolForg
 ---
 
 ## Full Specification
-See [MasterDocument.pdf](MasterDocument.pdf) for the complete rule set.
+See main file
